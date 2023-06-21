@@ -8,10 +8,10 @@
 
 <br>
 <p align="center">
-  Hi, I'm Kushal Tanna, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Dikshant Pandey, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
   <br>
   <br>
-  🎓 Completed my masters degree from <a href="https://www.daiict.ac.in/"> DAIICT.</a>
+  🎓 Completed my masters degree from <a href="[https://www.daiict.ac.in/](http://dypatil.edu/engineering/index.php)"> RAIT</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
