@@ -85,17 +85,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Ashuraa16/touchNdecor" title="Front-End"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashuraa16&repo=touchNdecor&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Ashuraa16/portfolio" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashuraa16&repo=portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Ashuraa16/To-Do-List-API" title="To-Do-List-API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashuraa16&repo=To-Do-List-API&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Ashuraa16/Ping-pong-2" title="Ping-pong-2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashuraa16&repo=Ping-pong-2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
 
 <h4 align="center">
-  <a href="https://github.com/KushalTanna24?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Ashuraa16?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
